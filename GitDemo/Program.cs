@@ -10,6 +10,7 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testing out github branching");
         }
     }
 }
